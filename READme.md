@@ -8,4 +8,4 @@ This is my Portfolio.
 HTML and CSS.
 
 # Live Preview:
-[click here](https://anupamsingh.netlify.app/) for Live Preview.
+[click here](https://anupamsingh.netlify.app/) to see my portfolio.
